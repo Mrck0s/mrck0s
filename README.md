@@ -4,12 +4,14 @@ Welcome to my GitHub repository! Here you will find projects and code examples I
 
 ## Technologies
 
-<span style="background-color: #F16529; color: #FFFFFF; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">HTML</span>
-<span style="background-color: #2965F1; color: #FFFFFF; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">CSS</span>
-<span style="background-color: #F7DF1E; color: #000000; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">JavaScript</span>
-<span style="background-color: #1D365D; color: #FFFFFF; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">LESS</span>
-<span style="background-color: #61DAFB; color: #000000; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">React</span>
-<span style="background-color: #563D7C; color: #FFFFFF; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">Bootstrap</span>
+| Tecnología    | Color de Fondo | Color de Texto |
+| ------------- | -------------- | -------------- |
+| HTML          | ![#F16529](https://via.placeholder.com/15/F16529/000000?text=+) `#F16529` | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF` |
+| CSS           | ![#2965F1](https://via.placeholder.com/15/2965F1/000000?text=+) `#2965F1` | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF` |
+| JavaScript    | ![#F7DF1E](https://via.placeholder.com/15/F7DF1E/000000?text=+) `#F7DF1E` | ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` |
+| LESS          | ![#1D365D](https://via.placeholder.com/15/1D365D/000000?text=+) `#1D365D` | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF` |
+| React         | ![#61DAFB](https://via.placeholder.com/15/61DAFB/000000?text=+) `#61DAFB` | ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` |
+| Bootstrap     | ![#563D7C](https://via.placeholder.com/15/563D7C/000000?text=+) `#563D7C` | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF` |
 
 These are the tools I usually employ to develop web applications and create attractive and functional interfaces.
 
