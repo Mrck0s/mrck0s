@@ -4,14 +4,12 @@ Welcome to my GitHub repository! Here you will find projects and code examples I
 
 ## Technologies
 
-<div style="display: flex; flex-wrap: wrap;">
-  <span style="background-color: #F16529; color: #FFFFFF; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">HTML</span>
-  <span style="background-color: #2965F1; color: #FFFFFF; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">CSS</span>
-  <span style="background-color: #F7DF1E; color: #000000; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">JavaScript</span>
-  <span style="background-color: #1D365D; color: #FFFFFF; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">LESS</span>
-  <span style="background-color: #61DAFB; color: #000000; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">React</span>
-  <span style="background-color: #563D7C; color: #FFFFFF; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">Bootstrap</span>
-</div>
+<span style="background-color: #F16529; color: #FFFFFF; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">HTML</span>
+<span style="background-color: #2965F1; color: #FFFFFF; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">CSS</span>
+<span style="background-color: #F7DF1E; color: #000000; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">JavaScript</span>
+<span style="background-color: #1D365D; color: #FFFFFF; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">LESS</span>
+<span style="background-color: #61DAFB; color: #000000; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">React</span>
+<span style="background-color: #563D7C; color: #FFFFFF; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">Bootstrap</span>
 
 These are the tools I usually employ to develop web applications and create attractive and functional interfaces.
 
