@@ -1,9 +1,9 @@
 <body>
-  <h1 style="color: #333;">¡Hola! Soy Marcos</h1>
+  <h1 style="color: #333;">¡Hi! I'm Marcos</h1>
 
-  <p style="font-style: italic;">Desarrollador front-end autodidacta desde 2021</p>
+  <p style="font-style: italic;">Self-taught Front-End Developer since 2021</p>
 
-  <h3>Mis conocimientos:</h3>
+  <h3>Actual Knowledge:</h3>
 
   <div style="display: flex; flex-wrap: wrap;">
     <span style="background-color: #F16529; color: #FFFFFF; padding: 6px 10px; border-radius: 4px; margin-right: 10px;">HTML</span>
@@ -17,24 +17,24 @@
   <h3>Mis redes sociales:</h3>
 
   <ul>
-    <li><a href="https://www.instagram.com/tuusuario">Instagram</a></li>
-    <li><a href="https://www.twitter.com/tuusuario">Twitter</a></li>
-    <li><a href="https://www.linkedin.com/in/tuusuario">LinkedIn</a></li>
+    <li><a href="https://www.instagram.com/m4rcos_fg/">Instagram</a></li>
+    <li><a href="https://twitter.com/msfurcogaitan">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/in/msfurcogaitan/">LinkedIn</a></li>
   </ul>
 
-  <h3>Futura capacitación:</h3>
+  <h3>Future Knowledge:</h3>
 
   <table>
     <thead>
       <tr>
-        <th>Tecnologías</th>
-        <th>Próximamente</th>
+        <th>Tech</th>
+        <th>When?</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>Java</td>
-        <td>Soon...</td>
+        <td>Currently...</td>
       </tr>
       <tr>
         <td>Python</td>
