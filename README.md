@@ -1,4 +1,4 @@
-# Hi!, my name is Marcos 👋
+# Hi, my name is Marcos! 👋
 👆🤓Self-taught Front-End Developer since 2021.
 
 
