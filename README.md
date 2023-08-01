@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrck0s&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mrck0s&icon=0&color=3)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Mrck0s&color=blueviolet&style=for-the-badge)
 
 ##
 Thank you for visiting my profile!👋👋
