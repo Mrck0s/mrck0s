@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me:
-I started my journey in programming at Oracle's ONE bootcamp. Since then, I have continued to study at my own pace and explore new technologies. My goal is to become a full-stack developer. I am constantly learning and staying updated to build attractive and functional web applications.
+I started my journey in programming at Oracle's ONE bootcamp. Since then, I have continued to study at my own pace and explore new technologies. My goal is to become a full-stack developer. I am constantly learning and staying updated to build attractive and functional web applications
 
 
 ## 🌐 Socials:
