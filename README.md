@@ -1,5 +1,5 @@
 # Hi, my name is Marcos! 👋
-👆🤓Self-taught Front-End Developer since 2021.
+👆🤓Self-taught Full-Stack Developer since 2021.
 
 
 
