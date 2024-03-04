@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrck0s&label=Profile%20views&color=0e75b6&style=flat" alt="mrck0s" /> </p>
 
-- 🔭 I’m currently working on [Movier](https://github.com/Mrck0s/movie-review)
+- 🔭 Currently working on [Movier](https://github.com/Mrck0s/movie-review)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 Currently learning **Angular**
 
 - 📫 How to reach me **msfurcogaitan@gmail.com**
 
